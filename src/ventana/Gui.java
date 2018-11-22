@@ -1,8 +1,7 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+Intentare hacer una rama.
  */
-package ventana;
+package ventana;//Me detectara?
 
 import java.awt.Color;
 import java.util.regex.Matcher;
